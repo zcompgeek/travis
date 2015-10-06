@@ -4,4 +4,4 @@ xcode_project: travisTest.xcodeproj
 xcode_scheme: travisTestTests
 
 before_install:
-  - print $TRAVIS_COMMIT_RANGE
+  -echo $TRAVIS_COMMIT_RANGE
