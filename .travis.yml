@@ -3,5 +3,5 @@ language: objective-c
 xcode_project: travisTest.xcodeproj
 xcode_scheme: travisTestTests
 
-before_script:
+before_install:
   - print $TRAVIS_COMMIT_RANGE
