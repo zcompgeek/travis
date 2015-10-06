@@ -1,6 +1,6 @@
 language: objective-c
 xcode_project: travis.xcodeproj
-xcode_scheme: travisTests
+xcode_scheme: travis
 
 before_install:
   - printenv
