@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>travisTest.xcscheme_^#shared#^_</key>
+		<key>travis.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B2D1AB851BC411B300200250</key>
+		<key>B2D1ABB11BC41BEA00200250</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B2D1AB991BC411B300200250</key>
+		<key>B2D1ABCA1BC41BEA00200250</key>
 		<dict>
 			<key>primary</key>
 			<true/>

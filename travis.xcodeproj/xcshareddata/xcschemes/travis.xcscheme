@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B2D1AB851BC411B300200250"
-               BuildableName = "travisTest.app"
-               BlueprintName = "travisTest"
-               ReferencedContainer = "container:travisTest.xcodeproj">
+               BlueprintIdentifier = "B2D1ABB11BC41BEA00200250"
+               BuildableName = "travis.app"
+               BlueprintName = "travis"
+               ReferencedContainer = "container:travis.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B2D1AB991BC411B300200250"
-               BuildableName = "travisTestTests.xctest"
-               BlueprintName = "travisTestTests"
-               ReferencedContainer = "container:travisTest.xcodeproj">
+               BlueprintIdentifier = "B2D1ABCA1BC41BEA00200250"
+               BuildableName = "travisTests.xctest"
+               BlueprintName = "travisTests"
+               ReferencedContainer = "container:travis.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B2D1AB851BC411B300200250"
-            BuildableName = "travisTest.app"
-            BlueprintName = "travisTest"
-            ReferencedContainer = "container:travisTest.xcodeproj">
+            BlueprintIdentifier = "B2D1ABB11BC41BEA00200250"
+            BuildableName = "travis.app"
+            BlueprintName = "travis"
+            ReferencedContainer = "container:travis.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,10 +65,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B2D1AB851BC411B300200250"
-            BuildableName = "travisTest.app"
-            BlueprintName = "travisTest"
-            ReferencedContainer = "container:travisTest.xcodeproj">
+            BlueprintIdentifier = "B2D1ABB11BC41BEA00200250"
+            BuildableName = "travis.app"
+            BlueprintName = "travis"
+            ReferencedContainer = "container:travis.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -84,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B2D1AB851BC411B300200250"
-            BuildableName = "travisTest.app"
-            BlueprintName = "travisTest"
-            ReferencedContainer = "container:travisTest.xcodeproj">
+            BlueprintIdentifier = "B2D1ABB11BC41BEA00200250"
+            BuildableName = "travis.app"
+            BlueprintName = "travis"
+            ReferencedContainer = "container:travis.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
