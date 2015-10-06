@@ -3,4 +3,4 @@ xcode_project: travis.xcodeproj
 xcode_scheme: travisTests
 
 before_install:
-  -printenv
+  - printenv
